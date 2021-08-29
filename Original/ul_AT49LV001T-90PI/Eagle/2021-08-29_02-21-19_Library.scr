@@ -1,0 +1,319 @@
+# Created by Ultra Librarian Gold 8.3.301 Copyright © 1999-2021
+# Frank Frank, Accelerated Designs
+
+Grid mil;
+Set Wire_Bend 2;
+
+
+Edit 'PDIP32_42P2X13P9_MCH.pac';
+Grid Mil;
+Change Drill 32;
+Pad '1' Square 0 60 R0 (0 0);
+Change Drill 32;
+Pad '2' Square 0 32 R0 (0 -100);
+Change Drill 32;
+Pad '3' Square 0 32 R0 (0 -200);
+Change Drill 32;
+Pad '4' Square 0 32 R0 (0 -300);
+Change Drill 32;
+Pad '5' Square 0 32 R0 (0 -400);
+Change Drill 32;
+Pad '6' Square 0 32 R0 (0 -500);
+Change Drill 32;
+Pad '7' Square 0 32 R0 (0 -600);
+Change Drill 32;
+Pad '8' Square 0 32 R0 (0 -700);
+Change Drill 32;
+Pad '9' Square 0 32 R0 (0 -800);
+Change Drill 32;
+Pad '10' Square 0 32 R0 (0 -900);
+Change Drill 32;
+Pad '11' Square 0 32 R0 (0 -1000);
+Change Drill 32;
+Pad '12' Square 0 32 R0 (0 -1100);
+Change Drill 32;
+Pad '13' Square 0 32 R0 (0 -1200);
+Change Drill 32;
+Pad '14' Square 0 32 R0 (0 -1300);
+Change Drill 32;
+Pad '15' Square 0 32 R0 (0 -1400);
+Change Drill 32;
+Pad '16' Square 0 32 R0 (0 -1500);
+Change Drill 32;
+Pad '17' Square 0 32 R0 (690 -1500);
+Change Drill 32;
+Pad '18' Square 0 32 R0 (690 -1400);
+Change Drill 32;
+Pad '19' Square 0 32 R0 (690 -1300);
+Change Drill 32;
+Pad '20' Square 0 32 R0 (690 -1200);
+Change Drill 32;
+Pad '21' Square 0 32 R0 (690 -1100);
+Change Drill 32;
+Pad '22' Square 0 32 R0 (690 -1000);
+Change Drill 32;
+Pad '23' Square 0 32 R0 (690 -900);
+Change Drill 32;
+Pad '24' Square 0 32 R0 (690 -800);
+Change Drill 32;
+Pad '25' Square 0 32 R0 (690 -700);
+Change Drill 32;
+Pad '26' Square 0 32 R0 (690 -600);
+Change Drill 32;
+Pad '27' Square 0 32 R0 (690 -500);
+Change Drill 32;
+Pad '28' Square 0 32 R0 (690 -400);
+Change Drill 32;
+Pad '29' Square 0 32 R0 (690 -300);
+Change Drill 32;
+Pad '30' Square 0 32 R0 (690 -200);
+Change Drill 32;
+Pad '31' Square 0 32 R0 (690 -100);
+Change Drill 32;
+Pad '32' Square 0 32 R0 (690 0);
+Layer 21;
+Wire 6 (65 -1588) (625 -1588);
+Wire 6 (625 -1588) (625 88);
+Wire 6 (625 88) (65 88);
+Wire 6 (65 88) (65 -1588);
+Change Size 50;
+Change Ratio 6;
+Text '*' SR0 (-23 35);
+Layer 51;
+Wire 6 (70 -16) (70 16);
+Wire 6 (70 16) (-16 16);
+Wire 6 (-16 16) (-16 -16);
+Wire 6 (-16 -16) (70 -16);
+Wire 6 (70 -116) (70 -84);
+Wire 6 (70 -84) (-16 -84);
+Wire 6 (-16 -84) (-16 -116);
+Wire 6 (-16 -116) (70 -116);
+Wire 6 (70 -216) (70 -184);
+Wire 6 (70 -184) (-16 -184);
+Wire 6 (-16 -184) (-16 -216);
+Wire 6 (-16 -216) (70 -216);
+Wire 6 (70 -316) (70 -284);
+Wire 6 (70 -284) (-16 -284);
+Wire 6 (-16 -284) (-16 -316);
+Wire 6 (-16 -316) (70 -316);
+Wire 6 (70 -416) (70 -384);
+Wire 6 (70 -384) (-16 -384);
+Wire 6 (-16 -384) (-16 -416);
+Wire 6 (-16 -416) (70 -416);
+Wire 6 (70 -516) (70 -484);
+Wire 6 (70 -484) (-16 -484);
+Wire 6 (-16 -484) (-16 -516);
+Wire 6 (-16 -516) (70 -516);
+Wire 6 (70 -616) (70 -584);
+Wire 6 (70 -584) (-16 -584);
+Wire 6 (-16 -584) (-16 -616);
+Wire 6 (-16 -616) (70 -616);
+Wire 6 (70 -716) (70 -684);
+Wire 6 (70 -684) (-16 -684);
+Wire 6 (-16 -684) (-16 -716);
+Wire 6 (-16 -716) (70 -716);
+Wire 6 (70 -816) (70 -784);
+Wire 6 (70 -784) (-16 -784);
+Wire 6 (-16 -784) (-16 -816);
+Wire 6 (-16 -816) (70 -816);
+Wire 6 (70 -916) (70 -884);
+Wire 6 (70 -884) (-16 -884);
+Wire 6 (-16 -884) (-16 -916);
+Wire 6 (-16 -916) (70 -916);
+Wire 6 (70 -1016) (70 -984);
+Wire 6 (70 -984) (-16 -984);
+Wire 6 (-16 -984) (-16 -1016);
+Wire 6 (-16 -1016) (70 -1016);
+Wire 6 (70 -1116) (70 -1084);
+Wire 6 (70 -1084) (-16 -1084);
+Wire 6 (-16 -1084) (-16 -1116);
+Wire 6 (-16 -1116) (70 -1116);
+Wire 6 (70 -1216) (70 -1184);
+Wire 6 (70 -1184) (-16 -1184);
+Wire 6 (-16 -1184) (-16 -1216);
+Wire 6 (-16 -1216) (70 -1216);
+Wire 6 (70 -1316) (70 -1284);
+Wire 6 (70 -1284) (-16 -1284);
+Wire 6 (-16 -1284) (-16 -1316);
+Wire 6 (-16 -1316) (70 -1316);
+Wire 6 (70 -1416) (70 -1384);
+Wire 6 (70 -1384) (-16 -1384);
+Wire 6 (-16 -1384) (-16 -1416);
+Wire 6 (-16 -1416) (70 -1416);
+Wire 6 (70 -1516) (70 -1484);
+Wire 6 (70 -1484) (-16 -1484);
+Wire 6 (-16 -1484) (-16 -1516);
+Wire 6 (-16 -1516) (70 -1516);
+Wire 6 (620 -1484) (620 -1516);
+Wire 6 (620 -1516) (706 -1516);
+Wire 6 (706 -1516) (706 -1484);
+Wire 6 (706 -1484) (620 -1484);
+Wire 6 (620 -1384) (620 -1416);
+Wire 6 (620 -1416) (706 -1416);
+Wire 6 (706 -1416) (706 -1384);
+Wire 6 (706 -1384) (620 -1384);
+Wire 6 (620 -1284) (620 -1316);
+Wire 6 (620 -1316) (706 -1316);
+Wire 6 (706 -1316) (706 -1284);
+Wire 6 (706 -1284) (620 -1284);
+Wire 6 (620 -1184) (620 -1216);
+Wire 6 (620 -1216) (706 -1216);
+Wire 6 (706 -1216) (706 -1184);
+Wire 6 (706 -1184) (620 -1184);
+Wire 6 (620 -1084) (620 -1116);
+Wire 6 (620 -1116) (706 -1116);
+Wire 6 (706 -1116) (706 -1084);
+Wire 6 (706 -1084) (620 -1084);
+Wire 6 (620 -984) (620 -1016);
+Wire 6 (620 -1016) (706 -1016);
+Wire 6 (706 -1016) (706 -984);
+Wire 6 (706 -984) (620 -984);
+Wire 6 (620 -884) (620 -916);
+Wire 6 (620 -916) (706 -916);
+Wire 6 (706 -916) (706 -884);
+Wire 6 (706 -884) (620 -884);
+Wire 6 (620 -784) (620 -816);
+Wire 6 (620 -816) (706 -816);
+Wire 6 (706 -816) (706 -784);
+Wire 6 (706 -784) (620 -784);
+Wire 6 (620 -684) (620 -716);
+Wire 6 (620 -716) (706 -716);
+Wire 6 (706 -716) (706 -684);
+Wire 6 (706 -684) (620 -684);
+Wire 6 (620 -584) (620 -616);
+Wire 6 (620 -616) (706 -616);
+Wire 6 (706 -616) (706 -584);
+Wire 6 (706 -584) (620 -584);
+Wire 6 (620 -484) (620 -516);
+Wire 6 (620 -516) (706 -516);
+Wire 6 (706 -516) (706 -484);
+Wire 6 (706 -484) (620 -484);
+Wire 6 (620 -384) (620 -416);
+Wire 6 (620 -416) (706 -416);
+Wire 6 (706 -416) (706 -384);
+Wire 6 (706 -384) (620 -384);
+Wire 6 (620 -284) (620 -316);
+Wire 6 (620 -316) (706 -316);
+Wire 6 (706 -316) (706 -284);
+Wire 6 (706 -284) (620 -284);
+Wire 6 (620 -184) (620 -216);
+Wire 6 (620 -216) (706 -216);
+Wire 6 (706 -216) (706 -184);
+Wire 6 (706 -184) (620 -184);
+Wire 6 (620 -84) (620 -116);
+Wire 6 (620 -116) (706 -116);
+Wire 6 (706 -116) (706 -84);
+Wire 6 (706 -84) (620 -84);
+Wire 6 (620 16) (620 -16);
+Wire 6 (620 -16) (706 -16);
+Wire 6 (706 -16) (706 16);
+Wire 6 (706 16) (620 16);
+Wire 6 (70 -1582) (620 -1582);
+Wire 6 (620 -1582) (620 82);
+Wire 6 (620 82) (70 82);
+Wire 6 (70 82) (70 -1582);
+Wire 6 (357 83) -180 (333 82);
+Change Size 50;
+Change Ratio 6;
+Text '*' SR0 (57 -25);
+Layer 25;
+Change Size 50;
+Change Ratio 6;
+Text '>Name' SR0 (216 -775);
+Layer 27;
+Change Size 50;
+Change Ratio 6;
+Text '>Value' SR0 (277 -775);
+
+Edit 'AT49LV001T-90PI.sym';
+Grid Mil;
+Layer 94;
+Pin '!RESET' Pas None Middle R0 Both 0 (100 0)
+Pin 'A16' I/O None Middle R0 Both 0 (100 -100)
+Pin 'A15' I/O None Middle R0 Both 0 (100 -200)
+Pin 'A12' I/O None Middle R0 Both 0 (100 -300)
+Pin 'A7' I/O None Middle R0 Both 0 (100 -400)
+Pin 'A6' I/O None Middle R0 Both 0 (100 -500)
+Pin 'A5' I/O None Middle R0 Both 0 (100 -600)
+Pin 'A4' I/O None Middle R0 Both 0 (100 -700)
+Pin 'A3' I/O None Middle R0 Both 0 (100 -800)
+Pin 'A2' I/O None Middle R0 Both 0 (100 -900)
+Pin 'A1' I/O None Middle R0 Both 0 (100 -1000)
+Pin 'A0' I/O None Middle R0 Both 0 (100 -1100)
+Pin 'I/O0' I/O None Middle R0 Both 0 (100 -1200)
+Pin 'I/O1' I/O None Middle R0 Both 0 (100 -1300)
+Pin 'I/O2' I/O None Middle R0 Both 0 (100 -1400)
+Pin 'GND' Pas None Middle R0 Both 0 (100 -1500)
+Pin 'I/O3' I/O None Middle R180 Both 0 (1700 -1500)
+Pin 'I/O4' I/O None Middle R180 Both 0 (1700 -1400)
+Pin 'I/O5' I/O None Middle R180 Both 0 (1700 -1300)
+Pin 'I/O6' I/O None Middle R180 Both 0 (1700 -1200)
+Pin 'I/O7' I/O None Middle R180 Both 0 (1700 -1100)
+Pin '!CE' Pas None Middle R180 Both 0 (1700 -1000)
+Pin 'A10' I/O None Middle R180 Both 0 (1700 -900)
+Pin '!OE' Pas None Middle R180 Both 0 (1700 -800)
+Pin 'A11' I/O None Middle R180 Both 0 (1700 -700)
+Pin 'A9' I/O None Middle R180 Both 0 (1700 -600)
+Pin 'A8' I/O None Middle R180 Both 0 (1700 -500)
+Pin 'A13' I/O None Middle R180 Both 0 (1700 -400)
+Pin 'A14' I/O None Middle R180 Both 0 (1700 -300)
+Pin 'NC' NC None Middle R180 Both 0 (1700 -200)
+Pin '!WE' Pas None Middle R180 Both 0 (1700 -100)
+Pin 'VCC' Pwr None Middle R180 Both 0 (1700 0)
+Wire 6 (300 200) (300 -1700);
+Wire 6 (300 -1700) (1500 -1700);
+Wire 6 (1500 -1700) (1500 200);
+Wire 6 (1500 200) (300 200);
+Layer 97;
+Layer 95;
+Change Size 82;
+Change Ratio 6;
+Text '>Name' SR0 (714 359);
+Layer 96;
+Change Size 82;
+Change Ratio 6;
+Text '>Value' SR0 (689 259);
+
+Edit 'AT49LV001T-90PI.dev';
+Prefix 'U';
+Description '';
+Value Off;
+Add AT49LV001T-90PI 'A' Next  0 (0 0);
+Package 'PDIP32_42P2X13P9_MCH';
+Technology '';
+Attribute Copyright 'Copyright (C) 2021 Ultra Librarian. All rights reserved.';
+Attribute Mfr_Name 'Microchip';
+Attribute Manufacturer_Part_Number 'AT49LV001T-90PI';
+Attribute Digi-Key_Part_Number_1 'AT49LV001T-90PI-ND';
+Connect 'A.!RESET' '1';
+Connect 'A.A16' '2';
+Connect 'A.A15' '3';
+Connect 'A.A12' '4';
+Connect 'A.A7' '5';
+Connect 'A.A6' '6';
+Connect 'A.A5' '7';
+Connect 'A.A4' '8';
+Connect 'A.A3' '9';
+Connect 'A.A2' '10';
+Connect 'A.A1' '11';
+Connect 'A.A0' '12';
+Connect 'A.I/O0' '13';
+Connect 'A.I/O1' '14';
+Connect 'A.I/O2' '15';
+Connect 'A.GND' '16';
+Connect 'A.I/O3' '17';
+Connect 'A.I/O4' '18';
+Connect 'A.I/O5' '19';
+Connect 'A.I/O6' '20';
+Connect 'A.I/O7' '21';
+Connect 'A.!CE' '22';
+Connect 'A.A10' '23';
+Connect 'A.!OE' '24';
+Connect 'A.A11' '25';
+Connect 'A.A9' '26';
+Connect 'A.A8' '27';
+Connect 'A.A13' '28';
+Connect 'A.A14' '29';
+Connect 'A.NC' '30';
+Connect 'A.!WE' '31';
+Connect 'A.VCC' '32';

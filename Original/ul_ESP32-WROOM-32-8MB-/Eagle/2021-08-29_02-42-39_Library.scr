@@ -1,0 +1,255 @@
+# Created by Ultra Librarian Gold 8.3.301 Copyright © 1999-2021
+# Frank Frank, Accelerated Designs
+
+Grid mil;
+Set Wire_Bend 2;
+
+
+Edit 'IC38_ESP32-WROOM-32_(8MB)_EXP.pac';
+Grid Mil;
+Layer 1;
+Smd '1' 79 35 -0 R0 (-334.6457 224.555);
+Layer 1;
+Smd '2' 79 35 -0 R0 (-334.6457 174.555);
+Layer 1;
+Smd '3' 79 35 -0 R0 (-334.6457 124.555);
+Layer 1;
+Smd '4' 79 35 -0 R0 (-334.6457 74.555);
+Layer 1;
+Smd '5' 79 35 -0 R0 (-334.6457 24.555);
+Layer 1;
+Smd '6' 79 35 -0 R0 (-334.6457 -25.445);
+Layer 1;
+Smd '7' 79 35 -0 R0 (-334.6457 -75.445);
+Layer 1;
+Smd '8' 79 35 -0 R0 (-334.6457 -125.445);
+Layer 1;
+Smd '9' 79 35 -0 R0 (-334.6457 -175.445);
+Layer 1;
+Smd '10' 79 35 -0 R0 (-334.6457 -225.445);
+Layer 1;
+Smd '11' 79 35 -0 R0 (-334.6457 -275.445);
+Layer 1;
+Smd '12' 79 35 -0 R0 (-334.6457 -325.445);
+Layer 1;
+Smd '13' 79 35 -0 R0 (-334.6457 -375.445);
+Layer 1;
+Smd '14' 79 35 -0 R0 (-334.6457 -425.445);
+Layer 1;
+Smd '38' 79 35 -0 R0 (334.6457 224.555);
+Layer 1;
+Smd '37' 79 35 -0 R0 (334.6457 174.555);
+Layer 1;
+Smd '36' 79 35 -0 R0 (334.6457 124.555);
+Layer 1;
+Smd '35' 79 35 -0 R0 (334.6457 74.555);
+Layer 1;
+Smd '34' 79 35 -0 R0 (334.6457 24.555);
+Layer 1;
+Smd '33' 79 35 -0 R0 (334.6457 -25.445);
+Layer 1;
+Smd '32' 79 35 -0 R0 (334.6457 -75.445);
+Layer 1;
+Smd '31' 79 35 -0 R0 (334.6457 -125.445);
+Layer 1;
+Smd '30' 79 35 -0 R0 (334.6457 -175.445);
+Layer 1;
+Smd '29' 79 35 -0 R0 (334.6457 -225.445);
+Layer 1;
+Smd '28' 79 35 -0 R0 (334.6457 -275.445);
+Layer 1;
+Smd '27' 79 35 -0 R0 (334.6457 -325.445);
+Layer 1;
+Smd '26' 79 35 -0 R0 (334.6457 -375.445);
+Layer 1;
+Smd '25' 79 35 -0 R0 (334.6457 -425.445);
+Layer 1;
+Smd '15' 35 79 -0 R0 (-225 -482.185);
+Layer 1;
+Smd '16' 35 79 -0 R0 (-175 -482.185);
+Layer 1;
+Smd '17' 35 79 -0 R0 (-125 -482.185);
+Layer 1;
+Smd '18' 35 79 -0 R0 (-75 -482.185);
+Layer 1;
+Smd '19' 35 79 -0 R0 (-25 -482.185);
+Layer 1;
+Smd '20' 35 79 -0 R0 (25 -482.185);
+Layer 1;
+Smd '21' 35 79 -0 R0 (75 -482.185);
+Layer 1;
+Smd '22' 35 79 -0 R0 (125 -482.185);
+Layer 1;
+Smd '23' 35 79 -0 R0 (175 -482.185);
+Layer 1;
+Smd '24' 35 79 -0 R0 (225 -482.185);
+Layer 1;
+Smd '42' 52 52 -0 R0 (-111.7831 -88.2);
+Layer 1;
+Smd '43' 52 52 -0 R0 (-39.539 -88.2);
+Layer 1;
+Smd '44' 52 52 -0 R0 (32.7051 -88.2);
+Layer 1;
+Smd '39' 52 52 -0 R0 (-111.7831 -15.9559);
+Layer 1;
+Smd '40' 52 52 -0 R0 (-39.539 -15.9559);
+Layer 1;
+Smd '41' 52 52 -0 R0 (32.7051 -15.9559);
+Layer 1;
+Smd '45' 52 52 -0 R0 (-111.7831 -160.4441);
+Layer 1;
+Smd '46' 52 52 -0 R0 (-39.539 -160.4441);
+Layer 1;
+Smd '47' 52 52 -0 R0 (32.7051 -160.4441);
+Layer 21;
+Wire 6 (-360 -507) (-256 -507);
+Wire 6 (360 -507) (360 -456);
+Wire 6 (360 507) (-360 507);
+Wire 6 (-360 507) (-360 255);
+Wire 6 (-360 -456) (-360 -507);
+Wire 6 (360 255) (360 507);
+Wire 6 (256 -507) (360 -507);
+Wire 6 (-394 213) -98 (-394 236);
+Layer 51;
+Wire 6 (-354 -502) (354 -502);
+Wire 6 (354 -502) (354 502);
+Wire 6 (354 502) (-354 502);
+Wire 6 (-354 502) (-354 -502);
+Wire 20 (-320 300) -180 (-350 300);
+Wire 20 (-350 300) -180 (-320 300);
+Layer 22;
+Wire 20 (-370 225) -180 (-400 225);
+Wire 20 (-400 225) -180 (-370 225);
+Layer 25;
+Change Size 50;
+Change Ratio 6;
+Text '>Name' SR0 (-129 -125);
+Layer 27;
+Change Size 50;
+Change Ratio 6;
+Text '>Value' SR0 (-68 -125);
+
+Edit 'IC38_ESP32-WROOM-32_(8MB).sym';
+Grid Mil;
+Layer 94;
+Pin '1' Pas None Middle R0 Both 0 (100 0)
+Pin '2' Pas None Middle R0 Both 0 (100 -100)
+Pin '3' Pas None Middle R0 Both 0 (100 -200)
+Pin '4' Pas None Middle R0 Both 0 (100 -300)
+Pin '5' Pas None Middle R0 Both 0 (100 -400)
+Pin '6' Pas None Middle R0 Both 0 (100 -500)
+Pin '7' Pas None Middle R0 Both 0 (100 -600)
+Pin '8' Pas None Middle R0 Both 0 (100 -700)
+Pin '9' Pas None Middle R0 Both 0 (100 -800)
+Pin '10' Pas None Middle R0 Both 0 (100 -900)
+Pin '11' Pas None Middle R0 Both 0 (100 -1000)
+Pin '12' Pas None Middle R0 Both 0 (100 -1100)
+Pin '13' Pas None Middle R0 Both 0 (100 -1200)
+Pin '14' Pas None Middle R0 Both 0 (100 -1300)
+Pin '15' Pas None Middle R0 Both 0 (100 -1400)
+Pin '16' Pas None Middle R0 Both 0 (100 -1500)
+Pin '17' Pas None Middle R0 Both 0 (100 -1600)
+Pin '18' Pas None Middle R0 Both 0 (100 -1700)
+Pin '19' Pas None Middle R0 Both 0 (100 -1800)
+Pin '20' Pas None Middle R0 Both 0 (100 -1900)
+Pin '21' Pas None Middle R0 Both 0 (100 -2000)
+Pin '22' Pas None Middle R0 Both 0 (100 -2100)
+Pin '23' Pas None Middle R0 Both 0 (100 -2200)
+Pin '24' Pas None Middle R180 Both 0 (3100 -2300)
+Pin '25' Pas None Middle R180 Both 0 (3100 -2200)
+Pin '26' Pas None Middle R180 Both 0 (3100 -2100)
+Pin '27' Pas None Middle R180 Both 0 (3100 -2000)
+Pin '28' Pas None Middle R180 Both 0 (3100 -1900)
+Pin '29' Pas None Middle R180 Both 0 (3100 -1800)
+Pin '30' Pas None Middle R180 Both 0 (3100 -1700)
+Pin '31' Pas None Middle R180 Both 0 (3100 -1600)
+Pin '32' Pas None Middle R180 Both 0 (3100 -1500)
+Pin '33' Pas None Middle R180 Both 0 (3100 -1400)
+Pin '34' Pas None Middle R180 Both 0 (3100 -1300)
+Pin '35' Pas None Middle R180 Both 0 (3100 -1200)
+Pin '36' Pas None Middle R180 Both 0 (3100 -1100)
+Pin '37' Pas None Middle R180 Both 0 (3100 -1000)
+Pin '38' Pas None Middle R180 Both 0 (3100 -900)
+Pin '39' Pas None Middle R180 Both 0 (3100 -800)
+Pin '40' Pas None Middle R180 Both 0 (3100 -700)
+Pin '41' Pas None Middle R180 Both 0 (3100 -600)
+Pin '42' Pas None Middle R180 Both 0 (3100 -500)
+Pin '43' Pas None Middle R180 Both 0 (3100 -400)
+Pin '44' Pas None Middle R180 Both 0 (3100 -300)
+Pin '45' Pas None Middle R180 Both 0 (3100 -200)
+Pin '46' Pas None Middle R180 Both 0 (3100 -100)
+Pin '47' Pas None Middle R180 Both 0 (3100 0)
+Wire 6 (300 300) (300 -2600);
+Wire 6 (300 -2600) (2900 -2600);
+Wire 6 (2900 -2600) (2900 300);
+Wire 6 (2900 300) (300 300);
+Layer 97;
+Layer 95;
+Change Size 82;
+Change Ratio 6;
+Text '>Name' SR0 (1414 459);
+Layer 96;
+Change Size 82;
+Change Ratio 6;
+Text '>Value' SR0 (1389 359);
+
+Edit 'ESP32-WROOM-32_(8MB).dev';
+Prefix 'U';
+Description '';
+Value Off;
+Add IC38_ESP32-WROOM-32_(8MB) 'A' Next  0 (0 0);
+Package 'IC38_ESP32-WROOM-32_(8MB)_EXP';
+Technology '';
+Attribute Copyright 'Copyright (C) 2021 Ultra Librarian. All rights reserved.';
+Attribute Mfr_Name 'Espressif Systems';
+Attribute Manufacturer_Part_Number 'ESP32-WROOM-32 (8MB)';
+Attribute Digi-Key_Part_Number_1 '1965-ESP32-WROOM-32(8MB)TR-ND';
+Attribute Digi-Key_Part_Number_2 '1965-ESP32-WROOM-32(8MB)CT-ND';
+Attribute Digi-Key_Part_Number_3 '1965-ESP32-WROOM-32(8MB)DKR-ND';
+Connect 'A.1' '1';
+Connect 'A.2' '2';
+Connect 'A.3' '3';
+Connect 'A.4' '4';
+Connect 'A.5' '5';
+Connect 'A.6' '6';
+Connect 'A.7' '7';
+Connect 'A.8' '8';
+Connect 'A.9' '9';
+Connect 'A.10' '10';
+Connect 'A.11' '11';
+Connect 'A.12' '12';
+Connect 'A.13' '13';
+Connect 'A.14' '14';
+Connect 'A.15' '15';
+Connect 'A.16' '16';
+Connect 'A.17' '17';
+Connect 'A.18' '18';
+Connect 'A.19' '19';
+Connect 'A.20' '20';
+Connect 'A.21' '21';
+Connect 'A.22' '22';
+Connect 'A.23' '23';
+Connect 'A.24' '24';
+Connect 'A.25' '25';
+Connect 'A.26' '26';
+Connect 'A.27' '27';
+Connect 'A.28' '28';
+Connect 'A.29' '29';
+Connect 'A.30' '30';
+Connect 'A.31' '31';
+Connect 'A.32' '32';
+Connect 'A.33' '33';
+Connect 'A.34' '34';
+Connect 'A.35' '35';
+Connect 'A.36' '36';
+Connect 'A.37' '37';
+Connect 'A.38' '38';
+Connect 'A.39' '39';
+Connect 'A.40' '40';
+Connect 'A.41' '41';
+Connect 'A.42' '42';
+Connect 'A.43' '43';
+Connect 'A.44' '44';
+Connect 'A.45' '45';
+Connect 'A.46' '46';
+Connect 'A.47' '47';

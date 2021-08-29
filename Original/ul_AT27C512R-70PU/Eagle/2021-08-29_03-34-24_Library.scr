@@ -1,0 +1,316 @@
+# Created by Ultra Librarian Gold 8.3.301 Copyright © 1999-2021
+# Frank Frank, Accelerated Designs
+
+Grid mil;
+Set Wire_Bend 2;
+
+
+Edit '28P6_ATM.pac';
+Grid Mil;
+Change Drill 32;
+Pad '1' Square 0 52 R0 (0 0);
+Change Drill 32;
+Pad '2' Round 0 52 R0 (0 -100);
+Change Drill 32;
+Pad '3' Round 0 52 R0 (0 -200);
+Change Drill 32;
+Pad '4' Round 0 52 R0 (0 -300);
+Change Drill 32;
+Pad '5' Round 0 52 R0 (0 -400);
+Change Drill 32;
+Pad '6' Round 0 52 R0 (0 -500);
+Change Drill 32;
+Pad '7' Round 0 52 R0 (0 -600);
+Change Drill 32;
+Pad '8' Round 0 52 R0 (0 -700);
+Change Drill 32;
+Pad '9' Round 0 52 R0 (0 -800);
+Change Drill 32;
+Pad '10' Round 0 52 R0 (0 -900);
+Change Drill 32;
+Pad '11' Round 0 52 R0 (0 -1000);
+Change Drill 32;
+Pad '12' Round 0 52 R0 (0 -1100);
+Change Drill 32;
+Pad '13' Round 0 52 R0 (0 -1200);
+Change Drill 32;
+Pad '14' Round 0 52 R0 (0 -1300);
+Change Drill 32;
+Pad '15' Round 0 52 R0 (625 -1300);
+Change Drill 32;
+Pad '16' Round 0 52 R0 (625 -1200);
+Change Drill 32;
+Pad '17' Round 0 52 R0 (625 -1100);
+Change Drill 32;
+Pad '18' Round 0 52 R0 (625 -1000);
+Change Drill 32;
+Pad '19' Round 0 52 R0 (625 -900);
+Change Drill 32;
+Pad '20' Round 0 52 R0 (625 -800);
+Change Drill 32;
+Pad '21' Round 0 52 R0 (625 -700);
+Change Drill 32;
+Pad '22' Round 0 52 R0 (625 -600);
+Change Drill 32;
+Pad '23' Round 0 52 R0 (625 -500);
+Change Drill 32;
+Pad '24' Round 0 52 R0 (625 -400);
+Change Drill 32;
+Pad '25' Round 0 52 R0 (625 -300);
+Change Drill 32;
+Pad '26' Round 0 52 R0 (625 -200);
+Change Drill 32;
+Pad '27' Round 0 52 R0 (625 -100);
+Change Drill 32;
+Pad '28' Round 0 52 R0 (625 0);
+Layer 21;
+Wire 6 (32 -1390) (592 -1390);
+Wire 6 (592 -1390) (592 -1322);
+Wire 6 (592 90) (32 90);
+Wire 6 (32 90) (32 37);
+Wire 6 (32 -37) (32 -78);
+Wire 6 (32 -122) (32 -178);
+Wire 6 (32 -222) (32 -278);
+Wire 6 (32 -322) (32 -378);
+Wire 6 (32 -422) (32 -478);
+Wire 6 (32 -522) (32 -578);
+Wire 6 (32 -622) (32 -678);
+Wire 6 (32 -722) (32 -778);
+Wire 6 (32 -822) (32 -878);
+Wire 6 (32 -922) (32 -978);
+Wire 6 (32 -1022) (32 -1078);
+Wire 6 (32 -1122) (32 -1178);
+Wire 6 (32 -1222) (32 -1278);
+Wire 6 (32 -1322) (32 -1390);
+Wire 6 (592 -1278) (592 -1222);
+Wire 6 (592 -1178) (592 -1122);
+Wire 6 (592 -1078) (592 -1022);
+Wire 6 (592 -978) (592 -922);
+Wire 6 (592 -878) (592 -822);
+Wire 6 (592 -778) (592 -722);
+Wire 6 (592 -678) (592 -622);
+Wire 6 (592 -578) (592 -522);
+Wire 6 (592 -478) (592 -422);
+Wire 6 (592 -378) (592 -322);
+Wire 6 (592 -278) (592 -222);
+Wire 6 (592 -178) (592 -122);
+Wire 6 (592 -78) (592 -22);
+Wire 6 (592 22) (592 90);
+Change Size 50;
+Change Ratio 6;
+Text '*' SR0 (-23 31);
+Layer 51;
+Wire 6 (38 -16) (37 16);
+Wire 6 (37 16) (-16 16);
+Wire 6 (-16 16) (-16 -16);
+Wire 6 (-16 -16) (38 -16);
+Wire 6 (38 -116) (37 -84);
+Wire 6 (37 -84) (-16 -84);
+Wire 6 (-16 -84) (-16 -116);
+Wire 6 (-16 -116) (38 -116);
+Wire 6 (38 -216) (38 -184);
+Wire 6 (38 -184) (-16 -184);
+Wire 6 (-16 -184) (-16 -216);
+Wire 6 (-16 -216) (38 -216);
+Wire 6 (38 -316) (38 -284);
+Wire 6 (38 -284) (-16 -284);
+Wire 6 (-16 -284) (-16 -316);
+Wire 6 (-16 -316) (38 -316);
+Wire 6 (38 -416) (38 -384);
+Wire 6 (38 -384) (-16 -384);
+Wire 6 (-16 -384) (-16 -416);
+Wire 6 (-16 -416) (38 -416);
+Wire 6 (38 -516) (38 -484);
+Wire 6 (38 -484) (-16 -484);
+Wire 6 (-16 -484) (-16 -516);
+Wire 6 (-16 -516) (38 -516);
+Wire 6 (38 -616) (38 -584);
+Wire 6 (38 -584) (-16 -584);
+Wire 6 (-16 -584) (-16 -616);
+Wire 6 (-16 -616) (38 -616);
+Wire 6 (38 -716) (38 -684);
+Wire 6 (38 -684) (-16 -684);
+Wire 6 (-16 -684) (-16 -716);
+Wire 6 (-16 -716) (38 -716);
+Wire 6 (38 -816) (38 -784);
+Wire 6 (38 -784) (-16 -784);
+Wire 6 (-16 -784) (-16 -816);
+Wire 6 (-16 -816) (38 -816);
+Wire 6 (38 -916) (38 -884);
+Wire 6 (38 -884) (-16 -884);
+Wire 6 (-16 -884) (-16 -916);
+Wire 6 (-16 -916) (38 -916);
+Wire 6 (38 -1016) (38 -984);
+Wire 6 (38 -984) (-16 -984);
+Wire 6 (-16 -984) (-16 -1016);
+Wire 6 (-16 -1016) (38 -1016);
+Wire 6 (38 -1116) (38 -1084);
+Wire 6 (38 -1084) (-16 -1084);
+Wire 6 (-16 -1084) (-16 -1116);
+Wire 6 (-16 -1116) (38 -1116);
+Wire 6 (38 -1216) (38 -1184);
+Wire 6 (38 -1184) (-16 -1184);
+Wire 6 (-16 -1184) (-16 -1216);
+Wire 6 (-16 -1216) (38 -1216);
+Wire 6 (38 -1316) (38 -1284);
+Wire 6 (38 -1284) (-16 -1284);
+Wire 6 (-16 -1284) (-16 -1316);
+Wire 6 (-16 -1316) (38 -1316);
+Wire 6 (588 -1284) (588 -1316);
+Wire 6 (588 -1316) (641 -1316);
+Wire 6 (641 -1316) (641 -1284);
+Wire 6 (641 -1284) (588 -1284);
+Wire 6 (588 -1184) (588 -1216);
+Wire 6 (588 -1216) (641 -1216);
+Wire 6 (641 -1216) (641 -1184);
+Wire 6 (641 -1184) (588 -1184);
+Wire 6 (588 -1084) (588 -1116);
+Wire 6 (588 -1116) (641 -1116);
+Wire 6 (641 -1116) (641 -1084);
+Wire 6 (641 -1084) (588 -1084);
+Wire 6 (587 -984) (587 -1016);
+Wire 6 (587 -1016) (641 -1016);
+Wire 6 (641 -1016) (641 -984);
+Wire 6 (641 -984) (587 -984);
+Wire 6 (587 -884) (587 -916);
+Wire 6 (587 -916) (641 -916);
+Wire 6 (641 -916) (641 -884);
+Wire 6 (641 -884) (587 -884);
+Wire 6 (587 -784) (587 -816);
+Wire 6 (587 -816) (641 -816);
+Wire 6 (641 -816) (641 -784);
+Wire 6 (641 -784) (587 -784);
+Wire 6 (587 -684) (587 -716);
+Wire 6 (587 -716) (641 -716);
+Wire 6 (641 -716) (641 -684);
+Wire 6 (641 -684) (587 -684);
+Wire 6 (587 -584) (587 -616);
+Wire 6 (587 -616) (641 -616);
+Wire 6 (641 -616) (641 -584);
+Wire 6 (641 -584) (587 -584);
+Wire 6 (587 -484) (587 -516);
+Wire 6 (587 -516) (641 -516);
+Wire 6 (641 -516) (641 -484);
+Wire 6 (641 -484) (587 -484);
+Wire 6 (587 -384) (587 -416);
+Wire 6 (587 -416) (641 -416);
+Wire 6 (641 -416) (641 -384);
+Wire 6 (641 -384) (587 -384);
+Wire 6 (587 -284) (587 -316);
+Wire 6 (587 -316) (641 -316);
+Wire 6 (641 -316) (641 -284);
+Wire 6 (641 -284) (587 -284);
+Wire 6 (587 -184) (587 -216);
+Wire 6 (587 -216) (641 -216);
+Wire 6 (641 -216) (641 -184);
+Wire 6 (641 -184) (587 -184);
+Wire 6 (587 -84) (587 -116);
+Wire 6 (587 -116) (641 -116);
+Wire 6 (641 -116) (641 -84);
+Wire 6 (641 -84) (587 -84);
+Wire 6 (587 16) (587 -16);
+Wire 6 (587 -16) (641 -16);
+Wire 6 (641 -16) (641 16);
+Wire 6 (641 16) (587 16);
+Wire 6 (38 -1385) (588 -1385);
+Wire 6 (588 -1385) (588 85);
+Wire 6 (588 85) (38 85);
+Wire 6 (38 85) (38 -1385);
+Wire 6 (324 85) -180 (300 85);
+Change Size 50;
+Change Ratio 6;
+Text '*' SR0 (25 -25);
+Layer 25;
+Change Size 50;
+Change Ratio 6;
+Text '>Name' SR0 (184 -675);
+Layer 27;
+Change Size 50;
+Change Ratio 6;
+Text '>Value' SR0 (244 -675);
+
+Edit 'AT27C512R-70PU.sym';
+Grid Mil;
+Layer 94;
+Pin 'A15' Pas None Middle R0 Both 0 (100 0)
+Pin 'A12' Pas None Middle R0 Both 0 (100 -100)
+Pin 'A7' Pas None Middle R0 Both 0 (100 -200)
+Pin 'A6' Pas None Middle R0 Both 0 (100 -300)
+Pin 'A5' Pas None Middle R0 Both 0 (100 -400)
+Pin 'A4' Pas None Middle R0 Both 0 (100 -500)
+Pin 'A3' Pas None Middle R0 Both 0 (100 -600)
+Pin 'A2' Pas None Middle R0 Both 0 (100 -700)
+Pin 'A1' Pas None Middle R0 Both 0 (100 -800)
+Pin 'A0' Pas None Middle R0 Both 0 (100 -900)
+Pin 'O0' Out None Middle R0 Both 0 (100 -1000)
+Pin 'O1' Out None Middle R0 Both 0 (100 -1100)
+Pin 'O2' Out None Middle R0 Both 0 (100 -1200)
+Pin 'GND' Pwr None Middle R0 Both 0 (100 -1300)
+Pin 'O3' Out None Middle R180 Both 0 (2500 -1300)
+Pin 'O4' Out None Middle R180 Both 0 (2500 -1200)
+Pin 'O5' Out None Middle R180 Both 0 (2500 -1100)
+Pin 'O6' Out None Middle R180 Both 0 (2500 -1000)
+Pin 'O7' Out None Middle R180 Both 0 (2500 -900)
+Pin '!CE' Pas None Middle R180 Both 0 (2500 -800)
+Pin 'A10' Pas None Middle R180 Both 0 (2500 -700)
+Pin '!OE/VPP' I/O None Middle R180 Both 0 (2500 -600)
+Pin 'A11' Pas None Middle R180 Both 0 (2500 -500)
+Pin 'A9' Pas None Middle R180 Both 0 (2500 -400)
+Pin 'A8' Pas None Middle R180 Both 0 (2500 -300)
+Pin 'A13' Pas None Middle R180 Both 0 (2500 -200)
+Pin 'A14' Pas None Middle R180 Both 0 (2500 -100)
+Pin 'VCC' Pwr None Middle R180 Both 0 (2500 0)
+Wire 6 (300 200) (300 -1500);
+Wire 6 (300 -1500) (2300 -1500);
+Wire 6 (2300 -1500) (2300 200);
+Wire 6 (2300 200) (300 200);
+Layer 97;
+Layer 95;
+Change Size 82;
+Change Ratio 6;
+Text '>Name' SR0 (1114 359);
+Layer 96;
+Change Size 82;
+Change Ratio 6;
+Text '>Value' SR0 (1089 259);
+
+Edit 'AT27C512R-70PU.dev';
+Prefix 'U';
+Description '';
+Value Off;
+Add AT27C512R-70PU 'A' Next  0 (0 0);
+Package '28P6_ATM';
+Technology '';
+Attribute Copyright 'Copyright (C) 2021 Ultra Librarian. All rights reserved.';
+Attribute Mfr_Name 'Microchip';
+Attribute Manufacturer_Part_Number 'AT27C512R-70PU';
+Attribute Digi-Key_Part_Number_1 'AT27C512R-70PU-ND';
+Attribute Digi-Key_Part_Number_2 'MCC-3337-ND';
+Connect 'A.A15' '1';
+Connect 'A.A12' '2';
+Connect 'A.A7' '3';
+Connect 'A.A6' '4';
+Connect 'A.A5' '5';
+Connect 'A.A4' '6';
+Connect 'A.A3' '7';
+Connect 'A.A2' '8';
+Connect 'A.A1' '9';
+Connect 'A.A0' '10';
+Connect 'A.O0' '11';
+Connect 'A.O1' '12';
+Connect 'A.O2' '13';
+Connect 'A.GND' '14';
+Connect 'A.O3' '15';
+Connect 'A.O4' '16';
+Connect 'A.O5' '17';
+Connect 'A.O6' '18';
+Connect 'A.O7' '19';
+Connect 'A.!CE' '20';
+Connect 'A.A10' '21';
+Connect 'A.!OE/VPP' '22';
+Connect 'A.A11' '23';
+Connect 'A.A9' '24';
+Connect 'A.A8' '25';
+Connect 'A.A13' '26';
+Connect 'A.A14' '27';
+Connect 'A.VCC' '28';
